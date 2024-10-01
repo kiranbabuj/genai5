@@ -6,3 +6,4 @@ llama-index-llms-openai
 llama-index-embeddings-huggingface
 PyMuPDF
 groq
+search groq
